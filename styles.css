@@ -5,3 +5,15 @@
     background-color: lightgoldenrodyellow;
     text-align: center;
 }
+.recipes{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: palegoldenrod;
+    text-align: center;
+    font-weight: 500;
+}
+.h2{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    font-weight: bold;
+}
